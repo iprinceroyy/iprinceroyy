@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prince_popups" target="blank"><img src="https://img.shields.io/twitter/follow/prince_popups?logo=twitter&style=for-the-badge" alt="prince_popups" /></a> </p>
 
-- 🔭 I’m currently working on [Loopstudios](https://www.loopstudios-by-prince.netlify.app)
+- 🔭 I’m currently working on [Base apparel](https://www.base-apparel-prince.netlify.app)
 
 - 💬 Ask me about **MERN Stack, Java, Python**
 
