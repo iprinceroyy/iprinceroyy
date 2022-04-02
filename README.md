@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Prince+Roy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<br />
 
 <p align="center">
   <div align="center">
@@ -12,6 +13,25 @@
   </div>
 </p>
 <br /> 
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
+- 🔭 I’m currently working as a Software Developer in Bengaluru, India
+  - 🌱 I’m currently learning Machine Learning and Big Data
+  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  
+  #### 📫 How to reach me:
+  
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/prince_popups)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/princeroy25/)  &nbsp; 
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/prince-25-roy/)  &nbsp; 
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/princeroyyyyyy/)  &nbsp; 
+<a href="mailto:princeku.ray143@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+
 
 ## 🖥 Languages
 
@@ -54,9 +74,6 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=iprinceroyy&theme=redical" width="100%"/>
   </p>
- 
- ## How to reach me
-  [![Linkedin Badge](https://img.shields.io/badge/-princeroy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/princeroy25)](https://www.linkedin.com/in/princeroy25) [![Gmail Badge](https://img.shields.io/badge/-princeku.ray143@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:princeku.ray143@gmail.com)](mailto:princeku.ray143@gmail.com) 
 
   <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
