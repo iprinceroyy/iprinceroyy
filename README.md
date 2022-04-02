@@ -1,7 +1,13 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iprinceroyy&theme=monokai&no-bg=true&margin-w=15)](https://github.com/iprinceroyy/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprinceroyy&layout=compact&theme=highcontrast)](https://github.com/iprinceroyy/github-readme-stats)
+
 
 [![Prince Roy's github activity graph](https://activity-graph.herokuapp.com/graph?username=iprinceroyy&theme=redical)](https://github.com/iprinceroyy/github-readme-activity-graph)
 
