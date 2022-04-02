@@ -54,7 +54,10 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=iprinceroyy&theme=redical" width="100%"/>
   </p>
-  
+ 
+ ## How to reach me
+  [![Linkedin Badge](https://img.shields.io/badge/-princeroy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/princeroy25)](https://www.linkedin.com/in/princeroy25) [![Gmail Badge](https://img.shields.io/badge/-princeku.ray143@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:princeku.ray143@gmail.com)](mailto:princeku.ray143@gmail.com) 
+
   <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
