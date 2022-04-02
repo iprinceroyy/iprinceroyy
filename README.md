@@ -33,4 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iprinceroyy&show_icons=true&locale=en" alt="iprinceroyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iprinceroyy&" alt="iprinceroyy" /></p>
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=iprinceroyy&theme=jolly&show_icons=true)
 
