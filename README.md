@@ -17,13 +17,16 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 🔭 I’m currently working as a Software Developer in Bengaluru, India
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
-  
-  #### 📫 How to reach me:
+- 🔭 I’m currently working [Loopstudios](https://loopstudios-by-prince.netlify.app/)
+- 👨‍🎓 I’m soph(CSE) at ITER, SOA University 
+- 💬 Ask me about Java, MERN, Python
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: Web apps are responsive, we make it unresponsive 😂
+<br />
+
+![Profile views](https://gpvc.arturio.dev/iprinceroyy)  
+
+  #### 📩 Reach out to me on:
   
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/prince_popups)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/princeroy25/)  &nbsp; 
@@ -75,7 +78,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=iprinceroyy&theme=redical" width="100%"/>
   </p>
 
-  <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+  <h1 align='center'>😎<i>Stay awesome!</i>😎</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
