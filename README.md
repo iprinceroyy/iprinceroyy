@@ -17,9 +17,8 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 🔭 I’m currently working [Loopstudios](https://loopstudios-by-prince.netlify.app/)
 - 👨‍🎓 I’m soph(CSE) at ITER, SOA University 
-- 💬 Ask me about Java, MERN, Python
+- 💬 Ask me about Java, Python, Web Development
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Web apps are responsive, we make it unresponsive 😂
 <br />
@@ -40,6 +39,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
